@@ -1,0 +1,104 @@
+body{
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+
+}
+
+.dtable{
+    display: flex;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.dtable_inputs{
+    position: relative;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+.dtable_input{
+    position:relative;
+    left: 10px;
+    width: 300px;
+    height: 30px;
+    top: 3200px;
+    margin: 20px;
+    padding-left:5px;
+    color: #ffffff;
+    background-color:#0c0c0c00;
+    border-radius:5px;
+    border: #ffffff 3px solid;
+    transition-duration:0.5S ;
+}
+.dtable_input:focus{
+    box-shadow:rgb(0 155 255) 0 0 20px 1px ,inset  rgb(0 155 255) 0 0 20px 1px;
+    outline:none;
+}
+.dtable_btn{
+    position:relative;
+    left: 10px;
+    width: 100px;
+    height: 39.5px;
+    top: 3200px;
+    margin: 20px 0 20px 0;
+    color: #ffffff;
+    background-color:#0C0C0C;
+    border-radius:5px;
+    border: #ffffff 3px solid;
+    transition-duration:0.5S ;
+
+}
+.dtable_btn:hover{
+    box-shadow:rgb(0 155 255) 0 0 20px 1px ,inset  rgb(0 155 255) 0 0 20px 1px;
+}
+table {
+    position:relative;
+    border-collapse: collapse;
+    border-spacing: 5px;
+    outline: 1px solid rgb(255, 255, 255);
+    border-radius: 25px;
+    background:#4458FB;
+    width: 1000px;
+    top: 3200px;
+    padding: 10px;
+    
+}
+    th {
+    font-size: 22px;
+    font-weight: 300;
+    padding: 12px 10px;
+   /*  border-left: 1px solid #ffffff; */
+    color:#ffffff;
+/*     background-color: #4458FB; */
+}
+    td {
+    padding: 10px;
+    color: #ffffff;
+    border: 1px solid rgba(48, 48, 48, 0.5);
+
+}
+    tr{
+        background-color: #0C0C0C;      
+}
+tr:hover{
+    background-color:#1f1f1f;
+}
+@media (max-width:1024px) {
+        .dtable{
+    justify-content: flex-start;
+    align-items: flex-start
+    }
+    table{
+        top: 380px;
+    }
+    .dtable_input{
+        top: 380px;
+    }
+    .dtable_btn{
+        top: 380px;
+    }
+}

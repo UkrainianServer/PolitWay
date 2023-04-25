@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="" type="image/png">
+
+    <link rel="stylesheet" href="stayle/index.css">
+    <link rel="stylesheet" href="stayle/nav.css">
+    <link rel="stylesheet" href="stayle/scrol.css">
+    <link rel="shortcut icon" href="/img/logo.svg" type="image/x-icon">
+    <title>PolitWay</title>
+
+
+    <!-- ШРИФТЫ  -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@800&display=swap" rel="stylesheet">
+        <div class="nav">
+            <img src="/img/Flag.svg" alt="" class="flag">
+            <img src="/img/ButtonZSU.svg" alt="" class="flag_btn">
+
+        <div class="logo">
+            <img src="/img/TextLogo.svg" alt="" class="logo_img">
+        </div>
+
+
+        <div class="btn">
+                <div style="background-image: linear-gradient(29.32deg, #FFC149 -15.55%, rgba(47, 251, 92, 0) 65.8%);" class="hexagon"></div>
+                <a class="btn_a" href=" http://game6.falixserver.net:52515/#world;flat;2228,64,5294;1">Мапа</a>
+
+                <div style="background-image: linear-gradient(29.32deg, #2FFB5C -15.55%, rgba(47, 251, 92, 0) 65.8%);" class="hexagon"></div>
+                <a class="btn_a" href="https://donatello.to/PolitWay">Донат</a>
+                
+                <div style="background-image: linear-gradient(29.32deg, #4558ff -15.55%, rgba(47, 251, 92, 0) 65.8%);" class="hexagon"></div>
+                <a class="btn_a" href="rules">Правила</a>
+                
+                <div style="background-image: linear-gradient(29.32deg,#ff4545 -15.55%, rgba(47, 251, 92, 0) 65.8%);" class="hexagon"></div>
+                <a class="btn_a" href="index">Таблиця</a>
+
+              
+
+            <div class="btn_menu">
+                <span class="line"></span>
+                <span class="line"></span>
+                <span class="line"></span>
+            </div> 
+        </div>
+    </div></head><br><link rel="stylesheet" href="stayle/table.css"></head><br><link rel="stylesheet" href="stayle/rows.css">
+<        <div class="text">
+            <h1>Правила сервера </h1>
+<div style="background-image: linear-gradient(1.86deg, #4393F2 -10.63%, rgba(67, 147, 242, 0) 77.68%);" class="hexagon_text3"></div></h3>
+             <a class="text_btn" href="/index.php">тут</a>
+             <div style="background-image: linear-gradient(315deg, #2F45FB -16.87%, rgba(47, 69, 251, 0) 68.23%);left: 264px;bottom: 100px;" class="hexagon_text1"></div>
+             <div style="background-image: linear-gradient(203.32deg, #2F45FB 15.06%, rgba(47, 69, 251, 0) 68.37%);" class="hexagon_text2"></div>
+
+        </div>
+    <div class="rows">
+
+<h2><div class="hexagon_rows"></div> Загальні правила</h2>
+
+<div class="rules_div">
+<div class="rules_text">1.1 - Незнання правил не звільняє вас від відповідальності.<br>
+<b>Покарання: Нема<br><br></b></div>
+
+<div class="rules_text">1.2 - Гравець зобов’язаний повідомити адміністрації про порушення, при замовчуванні - ви стаєте співучасником. <br>
+<b>Покарання: Бан на 2 години.<br><br></b></div>
+
+<div class="rules_text">1.3 - Почавши гру на нашому проекті, ви автоматично погоджуєтесь з правилами які представленні на ньому.<br>
+<b>Покарання: Нема.<br><br></b></div>
+<h2><div class="hexagon_rows"></div>Правила спілкування</h2>
+<div class="rules_div">
+<div class="rules_text">2.1 - Заборонена реклама у будь-якій формі, проте дозволено згадувати про сторонні ресурси, якщо це доречно.<br>
+<b>Покарання: Мут на 6 годин.<br><br></b></div>
+
+<div class="rules_text">2.2 - Заборонено відправляти шок-контент (скрімери, реальне насильство, тощо).<br>
+<b>Покарання: Мут на 6 годин.<br><br></b></div>
+
+<div class="rules_text">2.3 - Заборонені повідомлення не по темі каналу та флуд.<br>
+<b>Покарання: Мут на 1 годину.<br><br></b></div>
+
+<div class="rules_text">2.4 - Заборонено пінгувати без вагомої причини. Якщо вас просят зупинитися, з цим потрібно рахуватися.<br>
+<b>Покарання: Мут на 1 годину.<br><br></b></div>
+
+<div class="rules_text">2.5 - Заборонені образи, провокації, погрози та інша токсична поведінка на адресу учасників серверу.<br>
+<b>Покарання: Мут на 1 годину.<br><br></b></div>
+ 
+ <div class="rules_text">2.6 - Заборонено закликати до екстремізму, постити російську свастику, займатися шахрайством, тощо..<br>
+<b>Покарання: Бан назавжди.<br><br></b></div>
+ 
+  <div class="rules_text">2.7 - Заборонено будь-яким чином перешкоджати роботі адміністрації серверу.<br>
+<b>Покарання: Мут на 6 годин.<br><br></b></div>
+ 
+   <div class="rules_text">2.8 - Заборонено використовувати копії чужих аккаунтів.<br>
+<b>Покарання: Бан твінку, мут основного аккаунту на 2 години.<br><br></b></div>
+ </div>
+<h2><div class="hexagon_rows"></div>Правила поведінки на сервері</h2>
+
+<div class="rules_div">
+<div class="rules_text">3.1 - Гріферство міст.<br>
+<b>Покарання: Від 2 до 7 днів бану, в залежності від масштабу гріфу.<br><br></b></div>
+
+<div class="rules_text">3.2 - Адміністрації забороняється допомагати гравцям в ігровому процесі.<br>
+<b>Покарання: Зняття з посади + бан на 7 днів.<br><br></b></div>
+
+<div class="rules_text">3.3 - Заборонено розповсюджувати шкідливий контент (порнографія, шахрайство, чіти, тощо).<br>
+<b>Покарання: Бан на 7 днів.<br><br></b></div>
+
+<div class="rules_text">3.4 - Заборонено використовувати стороні моди, чіти, скріпти, багоюз, тощо. (Виключенням з цього є мінікарта).<br>
+<b>Покарання: Бан на 7 днів.<br><br></b></div>
+
+<div class="rules_text">3.5 - Заборонено викликати неполадки у роботі серверу (лаг-машини, дінаміт, тощо).
+<b>Покарання: Бан на 7 днів.<br><br></b></div>
+
+<div class="rules_text">3.6 - Заборонено підтримувати Россійську Федерацію. 
+<b>Покарання: Бан назавжди по IP.<br><br></b></div>
+ </div>
+<h2><div class="hexagon_rows"></div>Правила аккаунтів на сервері</h2>
+<div class="rules_div">
+<div class="rules_text">4.1 - Заборонено використовувати у нікнеймі образливі слова.<br>
+<b>Покарання: Бан назавжди.<br><br></b></div>
+
+<div class="rules_text">4.2 - Заборонено давати свій аккаунт 3-им лицям.<br>
+<b>Покарання: Бан на 7 днів.<br><br></b></div>
+
+<div class="rules_text">4.3 - Заборонено створювати більше 3 аккаунтів, обходити бан використовуючи VPN та інший обліковий запис.<br>
+<b>Покарання: Бан назавжди.<br><br></b></div>
+
+<div class="rules_text">4.4 - Заборонено обходити покарання.<br>
+<b>Покарання: Продовження покарання вдвічі.<br><br></b></div>
+
+<div class="rules_text">4.5 - Заборонено зламувати аккаунти інших гравців.<br>
+<b>Покарання: Бан назавжди по IP.<br><br></b></div>
+ </div>
+<h2><div class="hexagon_rows"></div>Рольовий процес</h2> 
+<div class="rules_div">
+
+<div class="rules_text">5.1 - Якщо гравець втратив свої речі, адміністрація не зобов’язана їх повертати.<br><br></div>
+<b>Покарання: Нема.<br><br></b></div>
+
+<div class="rules_text">5.2 - Заборонено вбивство без RP причини (RP причини: страта, перестрілка, набіг, тощо.<br>
+<b>Покарання: Бан на 6 годин.<br><br></b></div>
+<div class="rules_div">
+<div class="rules_text">5.3 - Заборонені нон-рп будівлі (коробки з землі, літаючі платформи, стовпи в небо, розлиті без причини лава та вода.<br></b>
+<b>Покарання: Бан на 6 годин + знесення будівлі.<br><br></b></div>
+<div class="rules_div">
+<div class="rules_text">5.4 - Заборонено дурити гравців на рахунок правил.<br>
+<b>Покарання: Бан на 6 годин.<br><br></b></div>
+<div class="rules_div">
+<div class="rules_text">5.5 - Заборонено авто і афк ферми. Виключенням є автопічки які повинні бути встановленні на заводах та бути оформлененими.<br>
+ <b>Покарання: Бан на 1 годину + знесення будівлі.<br><br></b></div>
+<div class="rules_div">
+<div class="rules_text">5.6 - Заборонено використовувати на війні: зачаровані предмети, зілля, воду і лаву.<br>
+ <b>Покарання: Бан на 1 годину, якщо випадків багато то автопрограш стороні порушнику.<br><br></b></div>
+<div class="rules_div">
+<div class="rules_text">5.7 - Обидві сторони повинні дотримуватися плану битви.<br>
+ <b>Покарання: Автопрограш стороні-порушнику.<br><br></b></div>
+<div class="rules_div">
+<div class="rules_text">5.8 - Заборонено відправляти солдатів на війну у іншу країну без офіційної публікації у газеті про підтримку, генштабу, казарми, міністерства зовнішніх справ та добровольчого корпусу.<br>
+ <b>Покарання: Вилучення з поля бою + Бан на 30 хвилин.<br><br></b></div>
+ <div class="rules_div">
+<div class="rules_text">5.9 - Заборонено відправляти на поле бою більше солдатів ніж дозволяє ліміт.<br>
+ <b>Покарання: Автопрограш стороні-порушнику.<br><br></b></div>
+<div class="rules_div">
+<div class="rules_text">5.10 - Заборонено влаштовувати нібіги без реєстрації.<br>
+ <b>Покарання: Повернення ресурсів + бан на 1 годину.<br><br></b></div>
+ <div class="rules_div">
+<div class="rules_text">5.11 - Заборонено змінювати кордони провінцій, (Виключення: приват мостів та кораблів).<br>
+ <b>Покарання: повернення кордонів провінції + бан на 1 день.<br><br></b></div>
+<div class="rules_div">
+<div class="rules_text">5.12 - Заборонено передавати президента без газети.<br>
+ <b>Покарання: Бан на 1 день +повернення лідерства.<br><br></b></div>
+ <div class="rules_div">
+<div class="rules_text">5.13 - Заборонено вбивати противника після закінчення війни.<br>
+ <b>Покарання: Бан на 30 хвилин.<br><br></b></div>
+<div>
+
+<br><br><br><br>
+
+</div>
+<b>Test<br><br></b></div>
